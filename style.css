@@ -1,9 +1,9 @@
-.box{
-    height:70vh;
-    width: 500px;
-    background-color:dimgrey;
-    position:absolute; left:20rem;
-    top:15rem;
-    border-radius: 30px;
-    
-}
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    width: 100vw;
+    overflow: hidden;
+  }
