@@ -1,0 +1,9 @@
+.box{
+    height:70vh;
+    width: 500px;
+    background-color:dimgrey;
+    position:absolute; left:20rem;
+    top:15rem;
+    border-radius: 30px;
+    
+}
